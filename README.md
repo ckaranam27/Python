@@ -19,9 +19,9 @@ As an example, your analysis should look similar to the one below:
         -------------------------
         Total Months: 41
         Total Revenue: $18971412
-        Average Change: $462717.37
-        Greatest Increase: Feb-16 ($1837235)
-        Greatest Decrease: Aug-14 ($-1779747)```
+        Average Revenue Change: $-6758.975
+        Greatest Increase in Revenue: Feb-16 (1837235)
+        Greatest Decrease in Revenue: Aug-14 (-1779747)
 
 
 Option 2 : PyPoll
