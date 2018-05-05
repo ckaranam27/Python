@@ -15,23 +15,23 @@ Your task is to create a Python script that analyzes the records to calculate ea
 As an example, your analysis should look similar to the one below:
 
 
-Financial Analysis
--------------------------
-Total Months: 41
-Total Revenue: $18971412
-Average Change: $462717.37
-Greatest Increase: Feb-16 ($1837235)
-Greatest Decrease: Aug-14 ($-1779747)```
+        Financial Analysis
+        -------------------------
+        Total Months: 41
+        Total Revenue: $18971412
+        Average Change: $462717.37
+        Greatest Increase: Feb-16 ($1837235)
+        Greatest Decrease: Aug-14 ($-1779747)```
 
 
 Option 2 : PyPoll
 
 Analyzing the two sets of poll data (election_data_1.csv and election_data_2.csv). Each dataset is composed of three columns: Voter ID, County, and Candidate. Your task is to create a Python script that analyzes the votes and calculates each of the following:
 
-•	The total number of votes cast
-•	A complete list of candidates who received votes
-•	The percentage of votes each candidate won
-•	The total number of votes each candidate won
-•	The winner of the election based on popular vote.
+      •	The total number of votes cast
+      •	A complete list of candidates who received votes
+      •	The percentage of votes each candidate won
+      •	The total number of votes each candidate won
+      •	The winner of the election based on popular vote.
 
 As an example, your analysis should look similar to the one below:
