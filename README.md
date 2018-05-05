@@ -36,14 +36,14 @@ Analyzing the two sets of poll data (election_data_1.csv and election_data_2.csv
 
 As an example, your analysis should look similar to the one below:
 
-                Election Results
-                -------------------------
-                Total Votes: 803000
-                -------------------------
-                Cordin: 3.00% (24090)
-                Seth: 5.00% (40150)
-                Torres: 44.00% (353320)
-                Vestal: 48.00% (385440)
-                -------------------------
-                Winner: Vestal
-                -------------------------
+        Election Results
+        -------------------------
+        Total Votes: 803000
+        -------------------------
+        Cordin: 3.00% (24090)
+        Seth: 5.00% (40150)
+        Torres: 44.00% (353320)
+        Vestal: 48.00% (385440)
+        -------------------------
+        Winner: Vestal
+        -------------------------
