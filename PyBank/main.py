@@ -1,9 +1,12 @@
 import csv
 
+# Variables to track
 date = []
 rev = []
+#Files to load the results
 file_to_output = "raw_data/budget_analysis.txt"
 
+# Read Files
 with open("raw_data/budget_data_1.csv") as file:
     reader = csv.reader(file)
     # skip the header row.
@@ -19,6 +22,7 @@ print(f"Total Revenue: ${sum(rev)}")
 
 revCh = []
 # revenue change starts with 2nd value.
+# Loop through all the rows of data we collect
 for i in range(1, len(rev)):
     revCh.append(rev[i] - rev[i-1])
 
